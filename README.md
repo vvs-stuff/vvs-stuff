@@ -1,20 +1,15 @@
-Hi there 👋
-I am a passionate .NET Full Stack Developer with a strong background in developing scalable web applications and services. I enjoy working on both the frontend and backend, bringing designs to life, and solving complex problems.
+# Hi, I'm Vaibhav Shirsath! 🚀  
 
-About Me
-💻 Languages: C#, JavaScript, TypeScript, HTML, CSS
-🌐 Frameworks & Libraries: ASP.NET Core, Entity Framework, Angular, React
-🛠 Tools: Visual Studio, Git, Docker, Azure
-💾 Databases: SQL Server, MongoDB, PostgreSQL
-🧩 Design Patterns: MVC, MVVM, Repository, Dependency Injection
+## 👨‍💻 About Me  
+I am a **Java Developer** with **4+ years of experience** in designing and building scalable applications using **Java, Spring Boot, and Microservices**. I specialize in developing **high-performance REST APIs** and optimizing system performance.  
 
-Blog & Writing
-My Blog - I write about .NET development, best practices, and new technologies.
-Medium - Articles on various tech topics.
-Get in Touch
-📧 Email: vaibhavshirsath818@gmail.com
-💼 LinkedIn : Vaibhav Shirsath
+💡 Passionate about **Cloud Technologies, DevOps, and API Development**  
+🔍 Enthusiastic about **solving complex problems and debugging efficiently**  
+📚 Always eager to **learn new technologies and improve existing solutions**  
+
+## 🎓 Education  
+🎓 **MTech in Computer Science** – Birla Institute of Technology and Science, Pilani *(Expected Oct 2024)*  
+🎓 **BSc in Computer Science** – Gokhale Education Society Bytco College, Pune University *(Completed Oct 2020)*  
 
 
-Thank you for visiting my profile! 
-
+🚀 **Let's build amazing software together!**  
